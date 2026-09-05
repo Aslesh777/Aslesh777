@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm building toward big goals like GSoC, open source leadership, and even my own AI assistant (JARVIS-level).<br>2nd-year Software Development student <br>Turning ideas into code | Learning, building, evolving<br>Web • Open Source • Future Cloud Security Engineer
+I'm building toward big goals like GSoC, open source leadership, and even my own AI assistant (JARVIS-level).<br>3nd-year Software Development student <br>Turning ideas into code | Learning, building, evolving<br>Web • Open Source • Future Cloud Security Engineer
 
 
 ## 🌐 Socials:
